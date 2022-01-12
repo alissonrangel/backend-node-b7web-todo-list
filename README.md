@@ -8,6 +8,10 @@
 
 #### Comando utilizados
 - git init
+- npm install -g typescript
+- npm install --save-dev typescript
+- npm install --save-dev @types/node
+- tsc --init
 - npm i express
 - npm i -D @types/express
 - npm install --save-dev ts-node-dev
