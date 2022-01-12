@@ -1,5 +1,8 @@
 ## Projeto de backend Node desenvolvido para integrar-se com o projeto todo list feito como atividade do curso de React da B7web
 
+### Github do projeto de frontend
+[Github do frontend](https://github.com/alissonrangel/b7web-todo-list-react)
+
 #### Banco de Dados
 - PostgreSQL
 
